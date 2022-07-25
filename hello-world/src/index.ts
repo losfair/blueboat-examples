@@ -1,5 +1,3 @@
-/// <reference path="../node_modules/blueboat-types/src/index.d.ts" />
-
 Router.get("/", () => new Response("hello world"));
 
 Router.get("/example", () => {

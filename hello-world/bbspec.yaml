@@ -1,3 +1,0 @@
-appid: com.example.blueboat.hello-world
-build: npm run build
-artifact: dist/bundle.js

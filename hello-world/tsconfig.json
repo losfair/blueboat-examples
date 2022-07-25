@@ -8,5 +8,8 @@
     "moduleResolution": "node",
     "strictNullChecks": true,
     "allowSyntheticDefaultImports": true,
+    "types": [
+      "blueboat-types"
+    ]
   }
 }
